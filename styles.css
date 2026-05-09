@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 0px 64px;
+    color: #F9FAF8;
+}
+
+header div {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: end;
+    gap: 24px;
+}
+
+.header-links{
+    text-decoration: none;
+}
+.hero-section{
+    background-color: #1f2937;
+}
+
+.hero-descriptions{
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    background-color: #1f2937;
+    margin: 0px 64px;
+}
+
+
+.image-boxes{
+
+}
+
+.content-section {
+
+}
+ 
+img {
+    width: 300px;
+ }
